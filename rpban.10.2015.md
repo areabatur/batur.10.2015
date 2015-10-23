@@ -232,7 +232,7 @@
 
 <tr>
 
-<td colspan="3">TOTAL</td>
+<td colspan="2">TOTAL</td>
 <!-- Table INI YANG DI GANTI -->
 <td>152</td>
 <td nowrap></td>
