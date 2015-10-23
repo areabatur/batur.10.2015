@@ -1,3 +1,4 @@
+<!DOCTYPE html> 
 <HTML>
 <HEAD>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=windows-1252">
@@ -107,37 +108,37 @@
 <td colspan="3">TOTAL</td>
 <!-- Table INI YANG DI GANTI -->
 <td>152</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
+<td nowrap></td>
 
 </tr>
 
