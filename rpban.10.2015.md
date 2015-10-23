@@ -2,7 +2,7 @@
 <HEAD>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=windows-1252">
 <style>
-td
+
 {
 width:100px;
 word-wrap: break-word;       /* Internet Explorer */
@@ -11,8 +11,7 @@ white-space: -moz-pre-wrap;  /* Other Mozilla, since 1999 */
 white-space: pre-wrap;       /* css-3 */
 white-space: -pre-wrap;      /* Opera 4-6 */
 white-space: -o-pre-wrap;    /* Opera 7 */
-}
-</style>
+
 <TITLE>MONITOR RUPIAH BILLMAN OKTOBER</TITLE>
 </HEAD>
 <BODY>
@@ -121,5 +120,7 @@ white-space: -o-pre-wrap;    /* Opera 7 */
 </TFOOT>
 <tr><td></td></tr>
 </table>
+}
+</style>
 
 </HTML>
