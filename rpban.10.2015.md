@@ -4,7 +4,7 @@
 <TITLE>MONITOR RUPIAH BILLMAN OKTOBER</TITLE>
 </HEAD>
 <BODY>
-<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Segoe UI" COLOR=#000000><CAPTION><B>A. 1 LEMBAR</B></CAPTION></FONT>
+<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Segoe UI" COLOR=#000000><CAPTION><B>A. 1 DAN 2 LEMBAR</B></CAPTION></FONT>
 
 <table>
 <THEAD>
@@ -50,7 +50,7 @@
 
 <tr><td colspan="3">TOTAL</td>
 <!-- Table INI YANG DI GANTI -->
-<td>152</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><<TD colspan="2">td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<td>152</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <!-- BATAS BAWAH -->
 </TBODY>
 </TFOOT>
