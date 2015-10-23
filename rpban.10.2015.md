@@ -1,6 +1,18 @@
 <HTML>
 <HEAD>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=windows-1252">
+<style>
+td
+{
+width:100px;
+word-wrap: break-word;       /* Internet Explorer */
+white-space: normal;         /* Firefox */
+white-space: -moz-pre-wrap;  /* Other Mozilla, since 1999 */
+white-space: pre-wrap;       /* css-3 */
+white-space: -pre-wrap;      /* Opera 4-6 */
+white-space: -o-pre-wrap;    /* Opera 7 */
+}
+</style>
 <TITLE>MONITOR RUPIAH BILLMAN OKTOBER</TITLE>
 </HEAD>
 <BODY>
@@ -11,7 +23,7 @@
 <TR>
 <TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>IDBILL</FONT></TH>
 <TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>NAME</FONT></TH>
-<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>LEMBAR</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>LBR</FONT></TH>
 <TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>RBM</FONT></TH>
 <TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>1</FONT></TH>
 <TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Segoe UI" COLOR=#000000>2</FONT></TH>
@@ -48,7 +60,7 @@
 </TR>
 </THEAD>
 <TBODY>
-<tr valign=baseline>
+
 <!-- Table INI YANG DI GANTI -->
 <TH> <tr><td>5522001</td><td>AA Made Sudiana</td><td>1</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr> 
 <tr><td>5522001</td><td>AA Made Sudiana</td><td>2</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
