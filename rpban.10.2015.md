@@ -49,8 +49,10 @@
 </THEAD>
 <TBODY>
 
-<!-- Table INI YANG DI GANTI -->
-<TH> <tr>
+<!---->
+<TH>
+
+<TH> 
 <TD DIR=LTR ALIGN=RIGHT>5522001</TD>
 <TD DIR=LTR ALIGN=RIGHT>AA Made Sudiana</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
