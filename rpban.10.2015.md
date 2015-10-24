@@ -49,12 +49,11 @@
 </THEAD>
 <TBODY>
 
-<!---->
-<TH>
-
+<!-- Table INI YANG DI GANTI -->
 <TH> 
+<tr>
 
-<tr><td>5522001</td><td nowrap>AA Made Sudiana</td><TD DIR=LTR ALIGN=RIGHT>1</td><TD DIR=LTR ALIGN=RIGHT>10</TD>
+<td>5522001</td><td nowrap>AA Made Sudiana</td>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
 <TD DIR=LTR ALIGN=RIGHT>10</TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
@@ -88,7 +87,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522001</TD>
 <TD nowrap>AA Made Sudiana</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -125,7 +124,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522002</TD>
 <TD nowrap>Dewa Gede Adnyana</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -163,7 +162,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522002</TD>
 <TD nowrap>Dewa Gede Adnyana</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -201,7 +200,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522003</TD>
 <TD nowrap>I Wayan Putu Gunadi</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -238,7 +237,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522003</TD>
 <TD nowrap>I Wayan Putu Gunadi</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -275,7 +274,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522004</TD>
 <TD nowrap>Ketut Sudarmono</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -311,8 +310,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
-
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522004</TD>
 <TD nowrap>Ketut Sudarmono</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -350,7 +348,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522005</TD>
 <TD nowrap>I Gusti Ngurah Putra Adnyana</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -388,7 +386,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522005</TD>
 <TD nowrap>I Gusti Ngurah Putra Adnyana</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -426,7 +424,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522006</TD>
 <TD nowrap>I Nengah Puja</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -463,7 +461,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522006</TD>
 <TD nowrap >I Nengah Puja</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -501,7 +499,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522007</TD>
 <TD nowrap>I Dewa Made Sineb</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -538,7 +536,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522007</TD>
 <TD nowrap>I Dewa Made Sineb</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -575,7 +573,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522009</TD>
 <TD nowrap>Ketut Sumarsa</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -612,7 +610,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522009</TD>
 <TD nowrap>Ketut Sumarsa</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -649,7 +647,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522010</TD>
 <TD nowrap>Nengah Mariana</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -686,7 +684,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522010</TD>
 <TD nowrap> engah Mariana</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -724,7 +722,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522011</TD>
 <TD nowrap>I Kadek Sumertana</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -763,7 +761,7 @@
 
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522011</TD>
 <TD Dnowrap>I Kadek Sumertana</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -802,7 +800,7 @@
 
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522012</TD>
 <TD nowrapT>I Gede Redina</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -841,7 +839,7 @@
 
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522012</TD>
 <TD nowrap>I Gede Redina</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -879,7 +877,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522013</TD>
 <TD nowrap>I Wayan Suarka</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -918,7 +916,7 @@
 
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522013</TD>
 <TD nowrap>I Wayan Suarka</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -957,7 +955,7 @@
 
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522014</TD>
 <TD nowrap>Wayan Sastra</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -995,7 +993,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522014</TD>
 <TD nowrap>Wayan Sastra</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -1033,7 +1031,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522015</TD>
 <TD nowrap>I Made Juita</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -1072,7 +1070,7 @@
 
 
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522015</TD>
 <TD nowrap>I Made Juita</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -1111,7 +1109,7 @@
 
 
 
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522016</TD>
 <TD nowrapIR=LTR ALGIN=RIGHT>Nyoman Arnata</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</TD>
@@ -1148,7 +1146,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522016</TD>
 <TD nowrap>Nyoman Arnata</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -1184,7 +1182,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
-</TH><TH><tr>
+</tr></TH><TH><tr>
 <TD DIR=LTR ALIGN=RIGHT>5522017</TD>
 <TD nowrap>I Wayan Agus Natakusuma</TD>
 <TD DIR=LTR ALIGN=RIGHT>1</DT>
@@ -1220,7 +1218,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
-</TR>
+</tr> <tr>
 <TD DIR=LTR ALIGN=RIGHT>5522017</TD>
 <TD nowrap>I Wayan Agus Natakusuma</TD>
 <TD DIR=LTR ALIGN=RIGHT>2</TD>
@@ -1256,9 +1254,17 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
+</tr>
+</TH>
+<!-- BATAS BAWAH -->
+<TFOOT>
 
-</TH><!-- BATAS BAWAH --><TFOOT><tr><td colspan="3">TOTAL</td><!-- Table INI YANG DI GANTI -->
-<TD DIR=LTR ALIGN=RIGHT>152</TD>
+<tr>
+
+<td colspan="3">TOTAL</td>
+<!-- Table INI YANG DI GANTI -->
+
+<TD DIR=LTR ALIGN=RIGHT>155</TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
@@ -1290,7 +1296,8 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
-<TH>
+
+</tr>
 
 <!-- BATAS BAWAH -->
 </TBODY>
