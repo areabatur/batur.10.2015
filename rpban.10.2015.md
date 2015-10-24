@@ -1257,7 +1257,7 @@
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 
-</TH><!-- BATAS BAWAH --><TFOOT><tr><td colspan="3">TOTAL</td><!-- Table INI YANG DI GANTI --><td>152</td>
+</TH><!-- BATAS BAWAH --><TFOOT><tr><td colspan="3">TOTAL</td><!-- Table INI YANG DI GANTI -->
 <TD DIR=LTR ALIGN=RIGHT>TOTAL</TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
@@ -1943,7 +1943,7 @@
 
 <tr>
 
-<td colspan="2">TOTAL</td>
+<td colspan="3">TOTAL</td>
 <!-- Table INI YANG DI GANTI -->
 <TD DIR=LTR ALIGN=RIGHT>155</TD>
 <TD DIR=LTR ALIGN=RIGHT></TD>
