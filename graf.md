@@ -1,28 +1,34 @@
-<html> 
-<html lang="en"> 
-<head> <title> Grafik Batang Statis HTML </title> 
-</head> 
+<html>
+<title>Cyber4rt Pie Charts</title>
+<head>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('visualization', '1.0', {'packages':['corechart']});
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+var data = new google.visualization.DataTable();
+data.addColumn('string', 'Topping');
+data.addColumn('number', 'Visits');
+data.addRows([
+['Jakarta', 84000],
+['Surabaya', 63600],
+['Bandung', 52900],
+['Yogyakarta', 48300],
+['Semarang', 38200],
+['Medan', 24700],
+['Makassar', 14500],
+['Depok', 2900],
+['Kuala Lumpur', 2800]
+]);
+var options = {'title':'Demographics City visitors for Cyber4rt',
+'width':400,
+'height':300};
+var chart = new google.visualization.PieChart(document.getElementById('cyber4rt_chart'));
+chart.draw(data, options);
+}
+</script>
+</head>
 <body>
-<h3>Perbandingan Pendapatan 4 Perusahaan Modern</h3>
-<font face="Arial" color="Black" size="2"> 
-<table border="0" cellspacing="0" cellpadding="2" width="467"> 
-<tr> 
-<th style="border-bottom: black 2pt solid; border-top: black 2pt solid" width="127">Perusahaan</th> 
-<th colspan="6" style="border-bottom: black 2pt solid; border-top: black 2pt solid">Pendapatan</th> </tr> 
-<tr> <td width="127">Angin Reb0ot Ltd.</td> <td colspan="3"></td>
-<td colspan="2" bgcolor="#003300" style="border-bottom: solid #FFFFFF 2pt"></td>
-<td width="52"><sub>150%</sub></td> </tr> 
-<tr> <td width="127">Command Pr., Inc.</td> <td colspan="3"></td>
-<td width="49" bgcolor="lime" style="border-bottom: solid #FFFFFF 2pt"></td>
-<td colspan="2"><sub>55%</sub></td> </tr> <tr> <td width="127">Hibernate Ltd.</td>
-<td colspan="2"><div align="right"><sub>-23%</sub></div></td
-> <td width="11" bgcolor="#FFFF00" style="border-bottom: solid #FFFFFF 2pt"></td> <td colspan="3"></td> 
-</tr> <tr> <td style="border-bottom: black 2pt solid" width="127">Shutdown Ltd</td>
-<td style="border-bottom: black 2pt solid" width="45"><div align="right"><sub>-75%</sub></div></td> 
-<td colspan="2" bgcolor="#FF0000" style="border-bottom: black 2pt solid"></td> 
-<td colspan="3" style="border-bottom: black 2pt solid"></td> 
-</tr>
-</table> 
-</font>
+<div id="cyber4rt_chart"></div>
 </body>
 </html>
