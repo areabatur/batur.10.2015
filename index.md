@@ -1,5 +1,5 @@
-<script type="text/javascript" src="../thema/jquery.min.js"></script>
-<script src="../thema/highcharts.js"></script>
+<script type="text/javascript" src="../jquery.min.js"></script>
+<script src="../highcharts.js"></script>
  
 <script type="text/javascript">
 		//2)script untuk membuat grafik, perhatikan setiap komentar agar paham
