@@ -1,3 +1,7 @@
+<html>
+<title>Cyber4rt Pie Charts</title>
+<head>
+
 <script type="text/javascript" src="../jquery.min.js"></script>
 <script src="../highcharts.js"></script>
  
@@ -82,4 +86,14 @@ $(function () {
 		</script>
  
 <!--grafik akan ditampilkan disini -->
+
+</script>
+</head>
+<body>
+
 <div id="container"></div>
+
+
+
+</body>
+</html>
